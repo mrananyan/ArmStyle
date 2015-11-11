@@ -1,0 +1,11 @@
+<DOCTYPE!>
+<html>
+   <head>
+      <title>{Arm_Style_Title}</title>
+   </head>
+   <body>
+      {barev_hayer}
+      <hr>
+      {arandzin_arm_fayl}
+   </body>
+</html>
